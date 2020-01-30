@@ -14,6 +14,7 @@ TODO: more description
 Contact
 =======
 To stay updated, you can sign up for the e-group: hep-statistics-standard@cern.ch
+
 Participating projects
 ======================
 
