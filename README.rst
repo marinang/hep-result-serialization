@@ -36,11 +36,9 @@ Involved projects
 
 hepstats
 --------
-TODO?
+The library provied modeling and hypothesis tests of different kinds.
 
-RooStats
---------
-TODO?
+`hepstats on Github <https://github.com/scikit-hep/hepstats>`_
 
 
 Committee
