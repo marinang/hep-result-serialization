@@ -36,7 +36,7 @@ Involved projects
 
 hepstats
 --------
-The library provied modeling and hypothesis tests of different kinds.
+The library provides modeling and hypothesis tests of different kinds.
 
 `hepstats on Github <https://github.com/scikit-hep/hepstats>`_
 
